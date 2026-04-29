@@ -28,12 +28,12 @@
 ## Архитектура
 
 ### Структура базы данных
-
+```
 Users (пользователи)
 └── FoundProperties (найденные вещи)
 └── PropertyType (тип вещи)
 └── NextDestination (пункт назначения)
-
+```
 
 ### Компоненты системы
 
@@ -96,7 +96,7 @@ Users (пользователи)
 - `RECYCLING` - переработка
 
 ## Структура проекта
-
+```
 lost-property-office/
 ├── src/
 │ ├── main/
@@ -125,7 +125,7 @@ lost-property-office/
 │ ├── java/ # Unit и интеграционные тесты
 │ └── resources/ # Тестовые SQL скрипты
 └── build.gradle
-
+```
 
 ## Технологии
 
