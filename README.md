@@ -1,9 +1,6 @@
 
----
-
 ## README для Lost Property Office (Бюро находок)
 
-```markdown
 # Lost Property Office - Бюро находок
 
 Веб-приложение для учета и управления найденными вещами.
